@@ -1,0 +1,1 @@
+Artistic project to generate geometric design patterns
